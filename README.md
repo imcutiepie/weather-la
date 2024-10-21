@@ -1,11 +1,4 @@
-Here’s a template for a README file for your weather application. You can customize it further based on your project's specifics:
-
----
-
-# Weather App
-
-![Weather App Logo](link-to-your-logo.png) <!-- Optional: Replace with your logo -->
-
+# Weather la
 A simple weather application built with React that allows users to search for weather information based on city or country. The app features search history functionality and dynamic weather updates.
 
 ## Table of Contents
