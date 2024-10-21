@@ -1,0 +1,54 @@
+.Light {
+  background-image: url(./assets/bg-light.png);
+  height: 100svh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  position: relative;
+}
+
+.Dark {
+  background-image: url(./assets/bg-dark.png);
+  height: 100svh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.lightThemeButton {
+  margin: 10px 30px;
+  padding: 10px;
+  border-radius: 16px;
+  color: black;
+  background-color: white;
+}
+
+.darkThemeButton {
+  margin: 10px 30px;
+  padding: 10px;
+  border-radius: 16px;
+  color: white;
+  background-color: black;
+}
+
+.material-symbols-outline {
+  line-height: normal;
+}
+
+.form-floating>label {
+  left: 10px;
+  background-color: inherit !important;
+  border: none !important;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.form-floating>.form-control,
+.form-floating>.form-control-plaintext {
+  border: 1px solid #000;
+  border-radius: 20px;
+  background-color: rgb(255 255 255 / 20%);
+  border: none;
+}
+
+.form-floating>.form-control {
+  padding-left: 20px;
+}

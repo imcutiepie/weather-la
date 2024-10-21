@@ -1,0 +1,29 @@
+.search-page {
+    padding: 30px 15%;
+}
+
+img {
+    min-height: 200px;
+    position: absolute;
+    width: 25%;
+    right: 20%;
+}
+
+.errorAlert {
+    margin: 8px;
+    color: red;
+    font-weight: 500;
+
+}
+
+@media screen and (max-width: 768px) {
+    .search-page {
+        padding: 16px;
+    }
+
+    img {
+        min-height: inherit;
+        width: 35%;
+        right: 10%;
+    }
+}
