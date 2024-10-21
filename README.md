@@ -87,6 +87,11 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+## Warm Reminder
 
-Feel free to modify the sections according to your project’s specific details and requirements!
+Please generate your own APIkey for OpenWeatherAPI(https://openweathermap.org/api) and place it as 'apiKey' in localStorage.
+
+## Another Warm Reminder
+
+Will come back form theme switcher and further enhancement! Cheers! :)
+
